@@ -1,0 +1,7 @@
+1. Open the TipCalculator app.
+2. Enter the total amount in the box near Check Amount.
+3. Enter the total number of people splitting the check in the box near the Party Size.
+4. After entering all the number, press Compute Tip button.
+5. All the results calculated will be displayed below the Compute Tip button.
+6."Empty or incorrect value(s)!" message will be displayed if one or both boxes are empty while pressing the Compute Tip Button.
+7. No negative number is allowed to enter in the box.
